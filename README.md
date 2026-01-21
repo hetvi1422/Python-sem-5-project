@@ -137,7 +137,6 @@ http://127.0.0.1:8000
 
 ---
 
-## 👨‍💻 Author
 
 **Hetvi Belani**
 IT Student | Python Developer | Game & AI Enthusiast
