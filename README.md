@@ -138,9 +138,4 @@ http://127.0.0.1:8000
 ---
 
 
-**Hetvi Belani**
-IT Student | Python Developer | Game & AI Enthusiast
-
----
-
 🧟‍♂️ *Run fast. Think faster. Math saves lives.* 🧠
